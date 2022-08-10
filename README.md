@@ -63,5 +63,5 @@ The movie data set contains:
 
    the last query gets the shows by specific genre sorted by rating from best to worst
 
-[yearsGraph]: https://github.com/AhmedAssem1/Movie-SQL/tree/main/images/NumberOfShowsPlot.PNG?raw=true "Number of shows by year"
-[showsByAge]: https://github.com/AhmedAssem1/Movie-SQL/tree/main/images/ShowsByAge.PNG?raw=true "Number of shows by age"
+[yearsGraph]: https://github.com/AhmedAssem1/Movie-SQL/blob/main/images/ShowsByAge.PNG?raw=true "Number of shows by year"
+[showsByAge]: https://github.com/AhmedAssem1/Movie-SQL/blob/main/images/ShowsByAge.PNG?raw=true "Number of shows by age"

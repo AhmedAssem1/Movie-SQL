@@ -1,4 +1,6 @@
 target
+TvRating.csv
+years.csv
 .idea
 *.class
 *.iws
